@@ -1,4 +1,4 @@
-package org.acme;
+package br.edu.ifg.luziania;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 

@@ -1,4 +1,4 @@
-package org.acme;
+package br.edu.ifg.luziania;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
